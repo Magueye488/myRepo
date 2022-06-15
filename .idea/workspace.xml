@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f30fea71-9a5a-4802-a888-74682e01b5e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Jenkinsfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jenkins/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/jenkins/Jenkinsfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jenkins/Jenkinsfile__origin" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +36,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="\\wsl$\Debian\home\mndiaye\simple-node-js-react-npm-app" />
+      <recent name="\\wsl$\Debian\home\mndiaye\simple-node-js-react-npm-app\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -46,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1655282089433</updated>
       <workItem from="1655282093235" duration="775000" />
-      <workItem from="1655282925509" duration="524000" />
+      <workItem from="1655282925509" duration="3300000" />
     </task>
     <servers />
   </component>
